@@ -1,6 +1,6 @@
 ## Application Screenshot
 
-![Application Screenshot](/assets/capture.png)
+![Application Screenshot](/assets/Capture.PNG)
 
 # Car Price Prediction
 Brief description of your application.
