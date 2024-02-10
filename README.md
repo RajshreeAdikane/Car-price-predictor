@@ -1,3 +1,6 @@
+## Application Screenshot
+
+![Application Screenshot](.\assets\Capture.PNG)
 # Car Price Prediction
 Brief description of your application.
 
