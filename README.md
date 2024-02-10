@@ -1,5 +1,4 @@
-# Your Application Name
-
+# Car Price Prediction
 Brief description of your application.
 
 ## Installation
