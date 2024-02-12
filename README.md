@@ -3,7 +3,7 @@
 ![Application Screenshot](/assets/Capture.PNG)
 
 # Car Price Prediction
-Brief description of your application.
+by using regression algorithm we can presict the price of car.
 
 ## Installation
 
